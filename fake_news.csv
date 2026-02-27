@@ -1,105 +1,247 @@
 text,label
-Rain expected in northern regions tomorrow,REAL
-Government approves new infrastructure project,REAL
-New medical college inaugurated in city,REAL
-Fuel prices drop after global changes,REAL
-New railway line opened for passengers,REAL
-Schools reopen after summer vacation,REAL
-Farmers begin harvesting crops,REAL
-Public transport services expanded,REAL
-Internet outage reported in several areas,REAL
-New sports stadium completed,REAL
-Vaccination rates increase nationwide,REAL
-New technology conference begins today,REAL
-Tourism industry shows recovery signs,REAL
-New housing scheme launched by government,REAL
-Bank introduces new savings policy,REAL
-University announces scholarship program,REAL
-Weather remains cloudy throughout week,REAL
-Local market prices increase,REAL
-Power outage affects thousands,REAL
-Flood relief teams deployed,REAL
-Fish swim in water,REAL
-Birds build nests in trees,REAL
-Humans require water to live,REAL
-Plants grow toward sunlight,REAL
-Earth rotates on its axis,REAL
-Moon reflects sunlight,REAL
-Sound cannot travel in vacuum,REAL
-Ice floats on water,REAL
-Fire needs oxygen to burn,REAL
-Humans breathe air,REAL
-Cats hunt small animals,REAL
-Dogs wag their tails,REAL
-Trees provide shade,REAL
-Rain nourishes plants,REAL
-Snow forms in cold climates,REAL
-Deserts have little rainfall,REAL
-Oceans cover most of Earth,REAL
-Mountains are formed by tectonic activity,REAL
-Rivers flow downhill,REAL
-Lightning produces thunder,REAL
-Secret alien council controls world governments,FAKE
-Scientists create portal to parallel universe,FAKE
-People gain superpowers after solar storm,FAKE
-Invisible cities discovered on Mars,FAKE
-Ocean water turning into fuel mysteriously,FAKE
-Ancient dragon found alive in cave,FAKE
-Robot army secretly built underground,FAKE
-Time travelers influencing elections,FAKE
-Mass teleportation device tested secretly,FAKE
-Earth hollow with hidden civilization,FAKE
-Moon is artificial satellite created by aliens,FAKE
-People turning into glass statues overnight,FAKE
-New virus makes humans glow in dark,FAKE
-Mountains moving across continents,FAKE
-Animals suddenly speaking human language,FAKE
-Floating cities appear above oceans,FAKE
-Gravity weakening worldwide,FAKE
-Secret machine controlling weather globally,FAKE
-Human cloning factory discovered,FAKE
-Government planning mind control program,FAKE
-Sun will explode next year according to report,FAKE
-Ocean drained by unknown force,FAKE
-New continent emerges overnight,FAKE
-Giant creatures spotted beneath Antarctica,FAKE
-Plants evolving to walk like animals,FAKE
-Mass disappearance of shadows reported,FAKE
-Artificial humans replacing population,FAKE
-Sky turning permanently red,FAKE
-Time loop traps city residents,FAKE
-Digital ghosts infecting computers,FAKE
-Teleportation booths installed secretly,FAKE
-Earth shifting closer to sun each year,FAKE
-Rain falling upward in some regions,FAKE
-Humans growing wings due to mutation,FAKE
-Unknown energy field freezes objects midair,FAKE
-Cities appearing and disappearing randomly,FAKE
-Global blackout caused by alien signal,FAKE
-People aging backward suddenly,FAKE
-Hidden underwater cities discovered,FAKE
-Machines developing emotions secretly,FAKE
-Forest disappears overnight without trace,FAKE
-Unknown species of giants discovered,FAKE
-Moon changing shape daily,FAKE
-Stars falling to Earth intact,FAKE
-Entire country becomes invisible,FAKE
-New dimension accessible through mirrors,FAKE
-Objects moving on their own worldwide,FAKE
-Secret formula turns water into gold,FAKE
-Mass hypnosis event affects millions,FAKE
-Planet-sized object approaching Earth unnoticed,FAKE
-Weather stuck on permanent storm mode,FAKE
-Artificial intelligence gains control of satellites,FAKE
-Ocean creatures attacking coastal cities,FAKE
-Solar flare grants people psychic powers,FAKE
-Humans no longer need sleep due to mutation,FAKE
-New mineral makes objects weightless,FAKE
-Mass spontaneous combustion events reported,FAKE
-Sky cracks open revealing another world,FAKE
-Global magnetic poles shifting daily,FAKE
-Underground tunnels spanning continents discovered,FAKE
-Unknown civilization broadcasting signals,FAKE
-Scientists revive prehistoric monsters,FAKE
-Plants growing at impossible speeds overnight,FAKE
-Time slowing down in certain regions,FAKE
+Fabricated story claims hidden city under Antarctica,FAKE
+Conspiracy theory says world leaders are robots,FAKE
+Misleading headline claims vaccines alter DNA permanently,FAKE
+Manipulated video shows fake political speech,FAKE
+Unverified claim says drinking bleach cures diseases,FAKE
+Sensational rumor about secret underground base spreads online,FAKE
+Fake report claims government hiding alien contact,FAKE
+False story about time traveler from future appears online,FAKE
+Rumor says new chip implanted in citizens secretly,FAKE
+Fake article claims moon landing was staged recently proven,FAKE
+Water freezes at zero degrees Celsius,REAL
+The Earth rotates on its axis,REAL
+Plants use sunlight for photosynthesis,REAL
+Humans need water to survive,REAL
+Birds build nests to lay eggs,REAL
+Fish breathe through gills,REAL
+The sun is a star,REAL
+Rain occurs due to condensation of water vapor,REAL
+Mount Everest is the tallest mountain above sea level,REAL
+Oceans contain salt water,REAL
+Parliament passes new economic reform bill,REAL
+Prime minister meets foreign delegates for summit,REAL
+Election commission announces polling dates,REAL
+Government launches new welfare scheme,REAL
+Opposition protests against fuel price hike,REAL
+Cabinet approves new infrastructure project,REAL
+President signs new environmental law,REAL
+Budget session begins in parliament,REAL
+International leaders discuss climate change policies,REAL
+New policy aims to improve rural development,REAL
+National team wins championship final,REAL
+Player scores hat trick in football match,REAL
+Olympic committee announces new events,REAL
+Cricket team qualifies for semifinals,REAL
+Tennis star wins grand slam title,REAL
+Coach resigns after poor performance season,REAL
+Athlete breaks world record in sprint event,REAL
+Basketball team secures playoff position,REAL
+Stadium renovation project completed,REAL
+New training program introduced for players,REAL
+Tech company releases new smartphone model,REAL
+Scientists develop new renewable energy technology,REAL
+Space agency launches satellite successfully,REAL
+Artificial intelligence used in medical diagnosis,REAL
+Researchers discover new species in rainforest,REAL
+Cybersecurity experts warn about new malware threat,REAL
+Electric vehicle adoption increases globally,REAL
+New software update improves device performance,REAL
+Robotics used in manufacturing industry,REAL
+Scientists study effects of climate change,REAL
+Stock market rises after policy announcement,REAL
+Inflation rate drops this quarter,REAL
+Unemployment rate shows slight decline,REAL
+Bank introduces new loan scheme,REAL
+City launches affordable housing project,REAL
+Tourism industry sees recovery growth,REAL
+New hospital inaugurated in district,REAL
+Education department announces exam schedule,REAL
+Public transport fares revised,REAL
+Government expands digital services initiative,REAL
+Stock market rises after policy announcement,REAL
+Inflation rate drops this quarter,REAL
+Unemployment rate shows slight decline,REAL
+Bank introduces new loan scheme,REAL
+City launches affordable housing project,REAL
+Tourism industry sees recovery growth,REAL
+New hospital inaugurated in district,REAL
+Education department announces exam schedule,REAL
+Public transport fares revised,REAL
+Government expands digital services initiative,REAL
+The human brain controls body functions,REAL
+Water is essential for all living organisms,REAL
+Birds migrate during winter seasons,REAL
+Plants grow from seeds,REAL
+The moon reflects sunlight,REAL
+Fish live in aquatic environments,REAL
+Earth has one natural satellite,REAL
+Humans breathe oxygen from air,REAL
+Rainfall supports agriculture,REAL
+Forests are important ecosystems,REAL
+Bees help in pollination,REAL
+The heart beats continuously,REAL
+Animals need food for energy,REAL
+Day and night occur due to Earth's rotation,REAL
+Clouds form from water vapor,REAL
+Soil supports plant growth,REAL
+Oceans regulate climate,REAL
+Ice is solid water,REAL
+Wind is moving air,REAL
+Fire produces heat and light,REAL
+Government announces new tax reforms,REAL
+Prime minister addresses nation on policy changes,REAL
+Election results declared after counting,REAL
+New law introduced to improve education system,REAL
+Parliament debates national security issues,REAL
+Cabinet meeting discusses economic growth plan,REAL
+International summit held to discuss trade relations,REAL
+Government launches digital governance initiative,REAL
+Public sector reforms announced by finance ministry,REAL
+New anti-corruption measures implemented,REAL
+Diplomatic talks held between neighboring countries,REAL
+Defense budget increased for modernization,REAL
+Local government approves urban development plan,REAL
+President visits disaster-affected region,REAL
+Policy changes aim to boost employment,REAL
+National census data released officially,REAL
+Public hearing conducted on environmental policy,REAL
+Government announces healthcare expansion plan,REAL
+Election commission updates voter guidelines,REAL
+Foreign minister attends global conference,REAL
+Football team wins international friendly match,REAL
+Cricket player scores century in final,REAL
+Olympic athletes prepare for upcoming games,REAL
+New coach appointed for national team,REAL
+Tennis match postponed due to rain,REAL
+Team announces squad for tournament,REAL
+Athlete recovers from injury ahead of competition,REAL
+Championship final scheduled next week,REAL
+Fans celebrate victory across city,REAL
+League standings updated after matchday,REAL
+Player transfers to rival club,REAL
+Training camp begins for season preparation,REAL
+Referee decisions reviewed after controversial match,REAL
+New sports facility inaugurated,REAL
+Team secures sponsorship deal,REAL
+Youth academy produces promising players,REAL
+Stadium capacity expanded for fans,REAL
+National record broken in swimming event,REAL
+Tournament organizers announce schedule,REAL
+Team qualifies for international competition,REAL
+New artificial intelligence model released,REAL
+Scientists develop vaccine for disease,REAL
+Space mission successfully lands rover,REAL
+Researchers publish study on climate change,REAL
+Technology company launches software update,REAL
+Breakthrough in battery technology announced,REAL
+Medical researchers test new treatment,REAL
+Satellite images reveal environmental changes,REAL
+Cybersecurity experts warn about phishing attacks,REAL
+New programming language gains popularity,REAL
+Quantum computing research progresses rapidly,REAL
+Renewable energy adoption increases worldwide,REAL
+Autonomous vehicles tested on roads,REAL
+Biotechnology advances improve agriculture,REAL
+New telescope captures deep space images,REAL
+Scientists analyze ocean pollution levels,REAL
+Tech startup introduces innovative app,REAL
+Virtual reality used in education sector,REAL
+Machine learning improves medical diagnosis,REAL
+Robotics used in disaster response operations,REAL
+Fake report claims giant creature found in lake,FAKE
+Secret society controls world governments,FAKE
+Time traveler reveals future events online,FAKE
+Aliens secretly living among humans,FAKE
+Hidden treasure discovered in city tunnels,FAKE
+Scientists create device to read minds remotely,FAKE
+Government plans to relocate population secretly,FAKE
+New drug claims to cure all diseases instantly,FAKE
+Ancient pyramid found on Mars surface,FAKE
+Unknown energy source discovered but kept secret,FAKE
+Robot uprising predicted within next decade,FAKE
+Underground civilization discovered beneath desert,FAKE
+Mass UFO sighting reported worldwide simultaneously,FAKE
+Artificial sun created secretly by scientists,FAKE
+Secret portal opens in abandoned building,FAKE
+Humans developing ability to breathe underwater,FAKE
+Invisible creatures spotted in forests,FAKE
+Technology allows instant teleportation already tested,FAKE
+Ghost sightings increase after mysterious event,FAKE
+New species found that can speak human language,FAKE
+Hidden base discovered beneath ocean floor,FAKE
+Scientists reverse aging process completely,FAKE
+Mind control signals broadcast through radio waves,FAKE
+Government hiding discovery of parallel universe,FAKE
+Ancient alien artifacts found in mountains,FAKE
+Floating city appears above ocean overnight,FAKE
+New virus spreads only through electronic devices,FAKE
+People developing supernatural abilities globally,FAKE
+Secret project creating human clones exposed,FAKE
+Machine predicts disasters years in advance,FAKE
+Animals behaving strangely before unknown event,FAKE
+Time loop detected affecting certain regions,FAKE
+Mysterious lights causing electronics failure,FAKE
+Underground tunnel network spans entire continent,FAKE
+Weather controlled by hidden satellites,FAKE
+Unknown force pulling objects toward sky,FAKE
+Disappearing buildings reported in remote areas,FAKE
+Scientists confirm existence of mythical creatures,FAKE
+Mass memory loss event affects population,FAKE
+Artificial intelligence secretly controlling internet,FAKE
+Ocean creatures attacking ships mysteriously,FAKE
+New continent rising from ocean floor,FAKE
+Secret experiments creating hybrid species,FAKE
+Unknown signal causing sleep disturbances worldwide,FAKE
+New element discovered with strange properties,FAKE
+Cities experiencing unexplained power surges,FAKE
+Objects levitating without explanation,FAKE
+Shadow figures seen across multiple countries,FAKE
+Government banning information about new discovery,FAKE
+Strange sounds heard globally at same time,FAKE
+People reporting identical dreams worldwide,FAKE
+Mass disappearance of birds unexplained,FAKE
+Unidentified aircraft flying without propulsion,FAKE
+Scientists decode message from deep space entity,FAKE
+Secret formula discovered for infinite energy,FAKE
+Time distortion observed near remote location,FAKE
+Mass hallucination event reported globally,FAKE
+Hidden island appears on satellite images,FAKE
+New organism discovered living in atmosphere,FAKE
+Military testing climate weapons secretly,FAKE
+Underground explosions linked to unknown activity,FAKE
+Artificial gravity field detected in city,FAKE
+Mysterious fog causes memory loss,FAKE
+Unknown radiation affecting electronics,FAKE
+People vanishing and reappearing hours later,FAKE
+Ancient map reveals lost advanced civilization,FAKE
+Strange creatures seen emerging from sea,FAKE
+Secret lab develops superhuman abilities,FAKE
+Unexplained phenomenon stops time briefly,FAKE
+Global internet outage caused by unknown source,FAKE
+Objects falling from sky without origin,FAKE
+Mass sightings of glowing spheres worldwide,FAKE
+Hidden technology allows invisibility to humans,FAKE
+Earth's rotation slowing unexpectedly,FAKE
+Unknown particles detected altering physics laws,FAKE
+Scientists hide discovery of living fossils,FAKE
+Mysterious signals disrupt GPS systems globally,FAKE
+New mineral causes unusual reactions in water,FAKE
+Secret project building underground cities,FAKE
+Unknown virus causes temporary super strength,FAKE
+Strange storms appear without weather patterns,FAKE
+Artificial intelligence predicts human extinction,FAKE
+Unexplained temperature spikes recorded globally,FAKE
+New continent discovered but kept classified,FAKE
+Objects moving without visible force,FAKE
+Hidden chamber found beneath ancient monument,FAKE
+Mass reports of time skipping experiences,FAKE
+Unknown energy waves affecting satellites,FAKE
+Sudden disappearance of entire village reported,FAKE
+Unidentified structures detected on ocean floor,FAKE
+New technology manipulates gravity locally,FAKE
+Scientists warn about invisible atmospheric danger,FAKE
+Mysterious footprints found in remote regions,FAKE
+Unknown creature attacking livestock at night,FAKE
+Secret formula allows unlimited memory capacity,FAKE
+Mass sightings of flying humanoid figures,FAKE
